@@ -39,5 +39,5 @@ On OTclient, set the following configurations:
 4. How to fishing? Put the fishing rod on the ammunition spot (arrow icon) and be close to the water.
 5. Why open the application as administrator? The application reads the client to get crucial information, like: Position, Health, and the game screen size when the player log in.
 6. The application is not safe or trustable, that occours because Microsoft Windows requires a signed certificate (we don't have yet) and files with few downloads are marked as not trustable. Google it for more details.
-7. Works in MAC or Linux? For now, *only WINDOWS*.
+7. Works in MAC or Linux? For now, _only WINDOWS_.
 
