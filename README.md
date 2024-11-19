@@ -12,6 +12,8 @@
 - Pick Spears
 - Auto Hunting
 - Auto Loot
+- Auto Anti-Banishment (delete report files used in a few servers)
+- Add Full Map
 
 ### Configuration
 On OTclient, set the following configurations:
@@ -28,6 +30,7 @@ On OTclient, set the following configurations:
 2. Alarms - Player on screen, disconnected
 3. Stop the BOT when player on screen
 4. Gamemaster (GM) or players auto answer and stop the BOT.
+5. Auto Answer players (randomly words players on screen or PM).
 
 ### FAQ
 1. This inject something on client? No, this BOT simulates keyboard and mouse, and identify pixels standards on screen. **The unique update of memory is the byte of full light.
