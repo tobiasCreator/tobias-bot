@@ -30,7 +30,7 @@ On OTclient, set the following configurations:
 4. Gamemaster (GM) or players auto answer and stop the BOT.
 
 ### FAQ
-1. This inject something on client? No, this BOT simulates keyboard and mouse, and identify pixels standards on screen.
+1. This inject something on client? No, this BOT simulates keyboard and mouse, and identify pixels standards on screen. **The unique update of memory is the byte of full light.
 2. Why needs internet to use it? We need to check if you are a member on our Discord when you enter your Discord username.
 3. This is Paid? You can use it as a free version with limited features.
 4. How to fishing? Put the fishing rod on the ammunition spot (arrow icon) and be close to the water.
