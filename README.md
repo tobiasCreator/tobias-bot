@@ -29,7 +29,7 @@ On OTclient, set the following configurations:
 1. Auto healing
 2. Alarms - Player on screen, disconnected
 3. Stop the BOT when player on screen
-4. Gamemaster (GM) or players auto answer and stop the BOT.
+4. Gamemaster (GM) answer and stop the BOT.
 5. Auto Answer players (randomly words players on screen or PM).
 
 ### FAQ
