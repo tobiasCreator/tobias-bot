@@ -1,6 +1,6 @@
 ## Tobias BOT
 
-![image](https://github.com/user-attachments/assets/31b689df-f94a-4700-9af3-24948e86c4b8)
+![screen](https://github.com/user-attachments/assets/38b2ea2c-fb96-4f04-8d41-4f6463a726cc)
 
 ### Features
 
