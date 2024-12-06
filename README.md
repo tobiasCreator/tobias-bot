@@ -5,7 +5,7 @@
 ### Features
 
 - Full Light
-- Auto Anti-Banishment (delete report files used in a few servers)
+- Auto Anti-Banishment (delete report files used in a few servers, and auto change the bot .exe file each time out open)
 - Add Full Map
 
 ---
